@@ -1,4 +1,4 @@
-# DLEN — 低光图像增强
+# DLEN —  Dual Branch of Transformer for Low-Light Image Enhancement in Dual Domains
 
 **GitHub 仓库**：[https://github.com/LaLaLoXX/DLEN](https://github.com/LaLaLoXX/DLEN)
 
